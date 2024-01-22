@@ -1,3 +1,5 @@
+# Complemento para Chrome. Calculador de facturación AFIP
+
 ## Instalación
 
 - Andá al navegador Chrome. 
