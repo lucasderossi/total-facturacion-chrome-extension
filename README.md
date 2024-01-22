@@ -1,5 +1,3 @@
-# Complemento BW Chrome
-
 ## Instalación
 
 - Andá al navegador Chrome. 
