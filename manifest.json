@@ -1,0 +1,24 @@
+{
+    "name": "Facturacion Anual",
+    
+    "version": "1.0",
+    
+    "description": "Afip calculadora facturacion anual",
+    
+    "manifest_version": 2,
+    
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_icon": "favicon.ico"
+    },
+    
+    "permissions": [
+        "storage",
+        "activeTab",
+        "tabs",
+        "cookies",
+        "webRequest",
+        "<all_urls>",
+        "https://*/"
+      ]
+  }
