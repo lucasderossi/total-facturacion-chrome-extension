@@ -1,0 +1,36 @@
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-size: cover;
+    font-size: 12px;
+    color: #3f3f3f;
+    width: 180px;
+    margin: 10px;
+    min-height: 160px;
+    text-align: center;
+
+}
+h2 {
+    margin-bottom: 0px;
+}
+
+.btn {
+    text-transform: uppercase;
+    background-color: #239edb;
+    padding: 12px;
+    border-radius: 3px;
+    color: #FFF;
+    border: none;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.log-form {
+    display: block;
+}
+.text {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    color: #fc4870;
+} 
+  
